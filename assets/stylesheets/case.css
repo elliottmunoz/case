@@ -1,0 +1,18 @@
+@font-face {font-family: 'Calluna-Sans-Light';src: url('../fonts/CallunaSansLight/CallunaSansLight-webfont.eot');src: url('../fonts/CallunaSansLight/CallunaSansLight-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/CallunaSansLight/CallunaSansLight-webfont.woff') format('woff'),url('../fonts/CallunaSansLight/CallunaSansLight-webfont.ttf') format('truetype');}
+@font-face {font-family: 'Calluna';src: url('../fonts/Calluna/Calluna-webfont.eot');src: url('../fonts/Calluna/Calluna-webfont.eot?#iefix') format('embedded-opentype'),url('../fonts/Calluna/Calluna-webfont.woff') format('woff'),url('../fonts/Calluna/Calluna-webfont.ttf') format('truetype');}
+
+
+body { 
+	font: 1.1em/2em Calluna-Sans-Light, Helvetica sans-serif;
+	color: #545454;
+}
+
+.intro{
+	background: #30373f;
+	color: white;
+	font: 1.4em/1.9em Calluna-Sans-Light, Georgia, serif;
+	padding: 30px 40px;
+	text-align: center;
+	width: 60%;
+}
+
